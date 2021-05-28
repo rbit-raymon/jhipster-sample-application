@@ -42,7 +42,9 @@
     "jwtSecretKey": "NWJkZDIzOTQyMjIyNzJhOTExZGNhMTAyN2ZlMDdhMDBkNzc0NDAxYmNjNzFlZGFjZTUzZDgyZmM5OGUyMGI0NWJiNWMzYjM2MGVhZmM2YTQyZDA4YzVmOGQzNzdjMDJiMmJjNDk1ZTQ2NWY1NmY4NWJkNGQwNzhjZDlhNTI2Yzc=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Note"],
+    "lastLiquibaseTimestamp": 1622234713000
   },
   "git-provider": "GitHub",
   "git-company": "rbit-raymon",
